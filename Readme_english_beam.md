@@ -112,7 +112,8 @@ First, confirm the position of the beam in the photo, and then use cropping to p
 
 - Try to ensure that the beam occupies more than 50% of the entire image.
 
-- Try to remove other clutter to avoid including them.
+-Try to avoid including other clutter in the photo when shooting
+
 
 #### 5.1.Representation of Acceptable Photos
 
