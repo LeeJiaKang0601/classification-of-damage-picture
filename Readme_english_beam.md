@@ -80,18 +80,18 @@ First, confirm the position of the beam in the photo, and then use cropping to p
 
 #### 4.2.1.When the beam occupies a small portion of the frame.
 
-<img src="./梁裁切方式/pic1.jpg" width="100%" />
+<img src="./梁裁切方式/pic1_eng.jpg" width="100%" />
 
-<img src="./梁裁切方式/pic4.jpg" width="100%" />
+<img src="./梁裁切方式/pic4_eng.jpg" width="100%" />
 
 
 #### 4.2.2.When encountering a situation with a lot of clutter in the frame.
 
-<img src="./梁裁切方式/pic3.jpg" width="100%" />
+<img src="./梁裁切方式/pic3_eng.jpg" width="100%" />
 
 #### 4.2.3.When encountering cantilever beam in the frame.
 
-<img src="./梁裁切方式/pic2.jpg" width="100%" />
+<img src="./梁裁切方式/pic2_eng.jpg" width="100%" />
 
 
 #### 4.3.The Beam photo after Cropping and filtering
