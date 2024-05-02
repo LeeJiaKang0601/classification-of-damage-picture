@@ -42,16 +42,16 @@ Photos that are **blurry** or **overly localized** are not accepted.
 ### 3.1.Examples of Unacceptable Photos
 #### 3.1.1.Representation of Blurry Photos
 
-<img src="./IMG_0377.jpg" width="80%" />
+<img src="./柱子示意照/IMG_0377.jpg" width="80%" />
 
 #### 3.1.2.Representation of Overly Localized Photos
 
-<img src="./P5130012.jpg" width="80%" />
+<img src="./柱子示意照/P5130012.jpg" width="80%" />
 
 
-<img src="./P5150048.jpg" width="80%" />
+<img src="./柱子示意照/P5150048.jpg" width="80%" />
 
-<img src="./A010_20-_20(17).jpg" width="80%" />
+<img src="./柱子示意照/A010_20-_20(17).jpg" width="80%" />
 
 
 
