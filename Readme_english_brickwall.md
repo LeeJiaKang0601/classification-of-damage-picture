@@ -107,22 +107,22 @@ iv. Try to avoid including other clutter in the photo.
 ### 4.2.Cropping Examples
 
 #### 4.2.1.When encountering situations where the wall does not occupy a significant portion of the frame or is not centered.
-<img src="./裁切示意/pic1_eng.jpg" width="100%" />
+<img src="./磚牆裁切示意/pic1_eng.jpg" width="100%" />
 
 Let the wall occupy more than **50%** of the entire picture.
 
 #### 4.2.2.When encountering a situation with a lot of clutter in the frame.
 
-<img src="./裁切示意/pic3_eng.jpg" width="100%" />
+<img src="./磚牆裁切示意/pic3_eng.jpg" width="100%" />
 
-<img src="./裁切示意/pic2_eng.jpg" width="100%" />
+<img src="./磚牆裁切示意/pic2_eng.jpg" width="100%" />
 
 
 Center the wall in the photo and remove any unnecessary clutter.
 
 #### 4.2.3.When encountering multiple walls in the frame.
 
-<img src="./裁切示意/pic4_eng.jpg" width="100%" />
+<img src="./磚牆裁切示意/pic4_eng.jpg" width="100%" />
 
 Divide the walls according to **floors**.
 
